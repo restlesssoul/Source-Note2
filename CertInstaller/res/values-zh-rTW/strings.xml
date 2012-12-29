@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">憑證安裝程序</string>
+    <string name="pick_file_title">挑選憑證</string>
+    <string name="pkcs12_password_dialog_title">取得憑證</string>
+    <string name="extracting_pkcs12">擷取中…</string>
+    <string name="pkcs12_file_password_dialog_title">從%s取得</string>
+    <string name="name_credential_dialog_title">憑證名稱</string>
+    <string name="credential_name">憑證名稱</string>
+    <string name="credential_password">輸入密碼以取得證書</string>
+    <string name="credential_info">套裝包含：</string>
+    <string name="p12_description">PKCS12 金鑰庫中的憑證</string>
+    <string name="one_userkey">一個使用者金鑰</string>
+    <string name="one_usercrt">一個用戶憑證</string>
+    <string name="one_cacrt">一個 CA 憑證</string>
+    <string name="n_cacrts">%d 個 CA 憑證</string>
+    <string name="password_error">請輸入正確的密碼</string>
+    <string name="password_empty_error">請輸入密碼。</string>
+    <string name="name_empty_error">輸入名稱。</string>
+    <string name="name_char_error">請輸入只含英數字元的名稱。</string>
+    <string name="storage_error">無法儲存憑證。輕觸 OK 以重試</string>
+    <string name="unable_to_save_cert">無法儲存證書。認證儲存裝置不可用或未連接</string>
+    <string name="cert_not_saved">未安裝憑證</string>
+    <string name="no_cert_to_saved">沒有可安裝的憑證</string>
+    <string name="invalid_cert">憑證無效。</string>
+    <string name="cert_is_added">%s已安裝</string>
+    <string name="cert_too_large_error">安裝失敗。證書大小過大</string>
+    <string name="cert_missing_error">安裝失敗。無法找到證書檔案</string>
+    <string name="cert_read_error">安裝失敗。無法讀取證書檔案</string>
+    <string name="no_cert_file_found">沒有在SD卡發現憑證</string>
+    <string name="sdcard_not_present">找不到 SD 卡</string>
+</resources>
